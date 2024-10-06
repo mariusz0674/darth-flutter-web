@@ -1,4 +1,0 @@
-enum SpecialWidget{
-  equipment,
-  minimap
-}
