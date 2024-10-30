@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "6f346abd130fdec70e9713def8212025",
-"assets/AssetManifest.bin.json": "b86a1ac9fb258bf54f803017692cfa52",
-"assets/AssetManifest.json": "f5ff537adc100751886e7909f19b0b53",
-"assets/assets/adventures/dungeon.json": "f71dd2f55ab2181e9a3b0a20c8fd87a1",
+const RESOURCES = {"assets/AssetManifest.bin": "24de81874ab932ff4138861be588f708",
+"assets/AssetManifest.bin.json": "00fe8895298f89163ebd5dcfd76f52a3",
+"assets/AssetManifest.json": "7e523720facc7c3e4d4619a219b34486",
+"assets/assets/adventures/dungeon.json": "cd08a4b94d1cb7a23805f623beafb5f7",
 "assets/assets/config/items.json": "bb7be5713dfd3a40db0ae8cbb07cea3c",
 "assets/assets/images/equipment/chest.png": "941da89456df5632b8f7afc3aee72480",
 "assets/assets/images/equipment/items/pretzel.png": "d5f60ea4e901e263c2a83931d1d4ff0d",
@@ -20,6 +20,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "6f346abd130fdec70e9713def8212025
 "assets/assets/images/quiz-game/quiz-background.png": "c9b826259cc58c31c396038b22270a92",
 "assets/assets/images/quiz-game/quiz-npc.png": "bb84f75fc763cad71857836a30119fcc",
 "assets/assets/images/quiz-game/win-background.png": "826cf7fd0b4d41563b89efe4efe61688",
+"assets/assets/images/rat-fighter/background.png": "0c6283c829264b339715dda5e60c7ff9",
+"assets/assets/images/rat-fighter/blood_screen.png": "88abf1299511f1e4ca1630613a5f6511",
+"assets/assets/images/rat-fighter/player.png": "e57cc42ce9fa5e440e9d90fb23c0b966",
+"assets/assets/images/rat-fighter/rat.png": "857a0d3ff8df0e80b61c72ef166f8ad9",
 "assets/assets/images/shop/assistantImg.png": "e57f628eab8272cad10aae1cade0a813",
 "assets/assets/images/shop/potions/Icon1.png": "86b0125a3f2b672723de688ba6c2926f",
 "assets/assets/images/shop/potions/Icon19.png": "0765be22ed598ae5f34c3b0cb8b6ad14",
@@ -29,7 +33,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6f346abd130fdec70e9713def8212025
 "assets/assets/images/shop/potions-shop-background.jpeg": "a8e2e9821d7ea2dc25dac8aee6fa9abc",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "90f60f0be8c49e9f601b1f37a7d11d1f",
-"assets/NOTICES": "259780b795d9aeee3966652e89073c68",
+"assets/NOTICES": "4e08396aef2d58611891871626fc954c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
@@ -48,9 +52,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6f346abd130fdec70e9713def8212025
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0c3c42cca75b51508ca9798706954816",
-"/": "0c3c42cca75b51508ca9798706954816",
-"main.dart.js": "4f6968de3ad1709ad8c8e4ec7d3ffc43",
+"index.html": "0dacf74a7a48ca4e731118be132db437",
+"/": "0dacf74a7a48ca4e731118be132db437",
+"main.dart.js": "77ae1267e39f4f99abd9c98e8ed38823",
 "manifest.json": "6ea29fbd482733c21411a6e0f803ba24",
 "version.json": "2c64ff65ae463e82645a385be4ccab50"};
 // The application shell files that are downloaded before a service worker can
